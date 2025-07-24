@@ -50,7 +50,7 @@ export default function HomePage() {
           >
             <div className="mb-8">
               <img
-                src="/placeholder.svg?height=200&width=200"
+                src="/MyAIPhoto.png?height=200&width=200"
                 alt="Meshack Kataboi"
                 className="w-48 h-48 rounded-full mx-auto shadow-lg object-cover"
               />

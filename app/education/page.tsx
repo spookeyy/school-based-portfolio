@@ -57,7 +57,7 @@ export default function EducationPage() {
               </div>
               <div className="md:w-1/3">
                 <img
-                  src="/placeholder.svg?height=200&width=300"
+                  src="/zetechpage.png?height=200&width=300"
                   alt="Zetech University"
                   className="rounded-lg shadow-lg"
                 />

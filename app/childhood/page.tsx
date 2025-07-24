@@ -12,19 +12,19 @@ export default function ChildhoodPage() {
       title: "Growing Up in Nairobi",
       description:
         "My childhood in the vibrant city of Nairobi was filled with adventure and discovery. From the bustling streets to the warm community spirit, every day was a new learning experience.",
-      image: "/placeholder.svg?height=300&width=400",
+      image: "/nairobiaerialview.png?height=300&width=400",
     },
     {
       title: "Family Bonds",
       description:
         "My family has been the cornerstone of my development. Their unwavering support, wisdom, and love shaped my values and gave me the confidence to pursue my dreams.",
-      image: "/placeholder.svg?height=300&width=400",
+      image: "/downtown.png?height=300&width=400",
     },
     {
       title: "Early Love for Technology",
       description:
         "I remember being fascinated by computers and technology from a young age. This curiosity would later blossom into my passion for software engineering.",
-      image: "/placeholder.svg?height=300&width=400",
+      image: "/nairobiaerialview.png?height=300&width=400",
     },
   ]
 
@@ -69,7 +69,7 @@ export default function ChildhoodPage() {
               <div className="md:flex">
                 <div className="md:w-1/2">
                   <img
-                    src={memories[activeMemory].image || "/placeholder.svg"}
+                    src={memories[activeMemory].image || "/nairobiaerialview.png?height=300&width=400"}
                     alt={memories[activeMemory].title}
                     className="w-full h-64 md:h-full object-cover"
                   />

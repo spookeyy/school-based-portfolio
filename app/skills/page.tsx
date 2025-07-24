@@ -153,7 +153,7 @@ export default function SkillsPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition-shadow">
                 <img
-                  src="/placeholder.svg?height=200&width=400"
+                  src="/sms-site.png?height=200&width=400"
                   alt="Web Application Project"
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
@@ -171,8 +171,8 @@ export default function SkillsPage() {
 
               <div className="bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition-shadow">
                 <img
-                  src="/placeholder.svg?height=200&width=400"
-                  alt="Mobile App Project"
+                  src="/parcelpoasite.png?height=200&width=400"
+                  alt="Web & Mobile App Project"
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
                 <h3 className="text-xl font-bold text-gray-800 mb-2">Parcel Deliver Web Application</h3>
